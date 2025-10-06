@@ -6,3 +6,4 @@
 5. [File Transfers](https://github.com/MrWhok/HTB-File_Transfers)
 6. [Shells & Payloads](https://github.com/MrWhok/HTB-Shells_and_Payloads)
 7. [Using the Metasploit Framework](https://github.com/MrWhok/HTB-Using_the_Metasploit_Framework)
+8. [Password Attacks](https://github.com/MrWhok/HTB-Password_Attacks)

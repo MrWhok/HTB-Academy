@@ -7,3 +7,4 @@
 6. [Shells & Payloads](https://github.com/MrWhok/HTB-Shells_and_Payloads)
 7. [Using the Metasploit Framework](https://github.com/MrWhok/HTB-Using_the_Metasploit_Framework)
 8. [Password Attacks](https://github.com/MrWhok/HTB-Password_Attacks)
+9. [Attacking Common Services](https://github.com/MrWhok/HTB-Attacking_Common_Services)

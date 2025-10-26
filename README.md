@@ -8,3 +8,4 @@
 7. [Using the Metasploit Framework](https://github.com/MrWhok/HTB-Using_the_Metasploit_Framework)
 8. [Password Attacks](https://github.com/MrWhok/HTB-Password_Attacks)
 9. [Attacking Common Services](https://github.com/MrWhok/HTB-Attacking_Common_Services)
+10. [Pivoting, Tunneling, and Port Forwarding](https://github.com/MrWhok/HTB-Pivoting_Tunneling_and_Port_Forwarding)

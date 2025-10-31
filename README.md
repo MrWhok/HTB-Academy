@@ -9,3 +9,4 @@
 8. [Password Attacks](https://github.com/MrWhok/HTB-Password_Attacks)
 9. [Attacking Common Services](https://github.com/MrWhok/HTB-Attacking_Common_Services)
 10. [Pivoting, Tunneling, and Port Forwarding](https://github.com/MrWhok/HTB-Pivoting_Tunneling_and_Port_Forwarding)
+11. [Active Directory Enumeration & Attacks](https://github.com/MrWhok/HTB-Active_Directory_Enumeration_and_Attacks)

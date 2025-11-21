@@ -12,3 +12,4 @@
 11. [Active Directory Enumeration & Attacks](https://github.com/MrWhok/HTB-Active_Directory_Enumeration_and_Attacks)
 12. [Using Web Proxies](https://github.com/MrWhok/HTB-Using_Web_Proxies)
 13. [Attacking Web Applications with Ffuf](https://github.com/MrWhok/HTB-Attacking_Web_Applications_with_Ffuf)
+14. [Login Brute Forcing](https://github.com/MrWhok/HTB-Login_Brute_Forcing)

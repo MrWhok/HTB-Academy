@@ -14,3 +14,4 @@
 13. [Attacking Web Applications with Ffuf](https://github.com/MrWhok/HTB-Attacking_Web_Applications_with_Ffuf)
 14. [Login Brute Forcing](https://github.com/MrWhok/HTB-Login_Brute_Forcing)
 15. [SQL Injection Fundamentals](https://github.com/MrWhok/HTB-SQL_Injection_Fundamentals)
+16. [SQLMap Essentials](https://github.com/MrWhok/HTB-SQLMap_Essentials)

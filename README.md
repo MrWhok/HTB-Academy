@@ -15,3 +15,4 @@
 14. [Login Brute Forcing](https://github.com/MrWhok/HTB-Login_Brute_Forcing)
 15. [SQL Injection Fundamentals](https://github.com/MrWhok/HTB-SQL_Injection_Fundamentals)
 16. [SQLMap Essentials](https://github.com/MrWhok/HTB-SQLMap_Essentials)
+17. [Cross-Site Scripting (XSS)](https://github.com/MrWhok/HTB-Cross_Site_Scripting_XSS)

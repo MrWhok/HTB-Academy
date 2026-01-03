@@ -16,3 +16,5 @@
 15. [SQL Injection Fundamentals](https://github.com/MrWhok/HTB-SQL_Injection_Fundamentals)
 16. [SQLMap Essentials](https://github.com/MrWhok/HTB-SQLMap_Essentials)
 17. [Cross-Site Scripting (XSS)](https://github.com/MrWhok/HTB-Cross_Site_Scripting_XSS)
+18. [File Inclusion](https://github.com/MrWhok/HTB-File_Inclusion)
+19. [File Upload Attacks](https://github.com/MrWhok/HTB-File_Upload_Attacks)
